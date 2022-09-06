@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm currently working on ML prediction projects :baby: --> :older_man:
-- I'm interested in turning rogue data to clean and properly maintained one :bookmark: :coffee:
+- I'm interested in turning rogue data to clean and properly maintained one :coffee: :bookmark:
 - Fun fact: A dime has 118 ridges around the edge ✨
 
 
