@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I'm currently working on ML prediction projects :baby: --> :older_man:
+- I'm interested in turning rogue data to clean and properly maintained one.
+- Fun fact: A dime has 118 ridges around the edge.
+
+
 <!--
 **GrinshpunDavid/GrinshpunDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
